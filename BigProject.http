@@ -1,0 +1,6 @@
+@BigProject_HostAddress = http://localhost:5216
+
+GET {{BigProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
